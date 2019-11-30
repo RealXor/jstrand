@@ -1,5 +1,5 @@
 # jstrand
-C++ library (and soon to be Bytecode Editor) to decompose, manipulate and compile Java binary class files
+C++ library (and soon to be Bytecode Editor) to decompile, manipulate and compile Java binary class files
 
 # Structure 
 The structure of jstrand aims to be as simple as possible, whilst still providing a solid amount of features and good performance when compiling. It's built on top of a single header file `jstrand.h` which will avoid the pain and hassle of multiple includes when trying to use jstrand. 
